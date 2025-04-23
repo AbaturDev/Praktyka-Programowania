@@ -7,3 +7,4 @@ Repozytorium kurs "Praktyka Programowania" prowadzonego na Politechnice Wrocław
 - **Laboratorium 1** - Test Driven Development (TDD)
 - **Laboratorium 2** - Pair Programming
 - **Laboratorium 3** - Code review and refactoring
+- **Laboratorium 4** - Wzorce projektowe
